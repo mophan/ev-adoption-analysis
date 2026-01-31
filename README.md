@@ -1,4 +1,4 @@
-# 🚗 Electric Vehicle Adoption Exploratory Data Analysis (EDA) in Washington State
+# 🚗 Exploratory Data Analysis (EDA) of Electric Vehicle (EV) Adoption in Washington State
 This project explores **electric vehicle (EV) adoption patterns in Washington State** using vehicle registration data. The analysis focuses on uncovering adoption patterns across **vehicle types, geography, manufacturers, pricing, performance, policy incentives (CAFV), and electric utilities.**
 
 Completed as part of **ISE 201: Mathematical Foundations for Decision & Data Science** in the **MSAI program at San José State University.**
