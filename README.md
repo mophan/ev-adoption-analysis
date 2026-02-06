@@ -45,13 +45,12 @@ This analysis follows a structured exploratory data analysis process:
 ---
 
 ## 📈 Key Insights
-- **BEVs dominate EV adoption (~80%)**, with consistent patterns across top counties and cities.
-- **King County and Seattle lead EV adoption**, reflecting the influence of urban density and charging infrastructure.
-- **Tesla dominates the EV market**, led by the Model Y and Model 3, and specializes almost entirely in BEVs.
-- EV adoption accelerated after **2017** and surged post-2020; recent dips likely reflect incomplete data.
-- Higher range often corresponds to higher MSRP, but **price is not driven by range alone**.
-- **Electric range strongly differentiates EV types** and is closely tied to CAFV eligibility.
-- **Puget Sound Energy** serves the largest EV population, followed by City of Seattle and City of Tacoma utilities.
+- **Battery Electric Vehicles (BEVs) dominate EV adoption**, accounting for the majority of registered electric vehicles.
+- **King County and the Seattle area lead EV adoption**, reflecting the influence of higher population density and charging infrastructure availability.
+- **Tesla Model Y and Model 3 are the most popular EV models**, indicating strong consumer preference for range and brand recognition.
+- **Higher electric range generally corresponds to higher MSRP**, though price is influenced by multiple factors beyond range alone.
+- **Utility providers such as Puget Sound Energy serve the largest share of EV owners**, highlighting opportunities for targeted infrastructure investment.
+
 
 ---
 
