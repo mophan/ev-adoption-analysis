@@ -1,14 +1,27 @@
 # Electric Vehicle (EV) Adoption Analysis 🚗⚡
-This project explores **electric vehicle (EV) adoption patterns in Washington State** using Python. The analysis focuses on uncovering adoption patterns across **vehicle types, geography, manufacturers, pricing, performance, policy incentives (CAFV), and electric utilities.**
+Exploratory data analysis of electric vehicle (EV) adoption patterns in Washington State, using Python to uncover geographic, manufacturer, and performance trends that can inform infrastructure planning and policy decisions.
 
-Completed as part of **ISE 201: Mathematical Foundations for Decision & Data Science** in the **MSAI program at San José State University.**
+---
 
-## Problem
-How can policymakers and businesses understand EV adoption patterns
-to improve infrastructure planning?
+## 🎯 Project Objective
+The goal of this project is to understand how electric vehicle adoption varies across regions, manufacturers, and vehicle characteristics in Washington State, and to translate data insights into actionable recommendations for stakeholders such as policymakers, utility providers, and businesses.
 
-## Dataset
-Washington State EV Registration Data (260K+ rows)
+---
+
+## 📂 Dataset
+- **Source:** Washington State Department of Licensing (DOL) EV Registration Data  
+- **Scope:** 260,000+ registered electric vehicles  
+- **Key features:**  
+  - Vehicle type (BEV vs. PHEV)  
+  - Make & model  
+  - Model year  
+  - Electric range  
+  - Base MSRP  
+  - County & city  
+
+Each row represents a unique registered electric vehicle.
+
+---
 
 ## Approach
 This analysis follows a structured exploratory data analysis process:
