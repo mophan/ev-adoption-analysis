@@ -32,18 +32,19 @@ Each row represents a unique registered electric vehicle.
 
 ---
 
-
-## Approach
+## 🔍 Analysis Approach
 This analysis follows a structured exploratory data analysis process:
-1. **Understand the Problem & Data** — Defined research questions and assessed dataset scope and limitations.
-2. **Import & Inspect Data** — Reviewed variable types, distributions, and overall data quality.
-3. **Handle Missing Data** — Identified missing and zero values (e.g., electric range and base MSRP) and applied appropriate cleaning strategies.
-4. **Explore Data Patterns** — Used descriptive statistics and grouped aggregations by geography, manufacturer, vehicle type, and model year.
-5. **Transform Data** — Created derived variables and encoded categorical features to support analysis.
-6. **Visualize Relationships & Correlations** — Examined key relationships using correlation analysis and visual exploration.
-7. **Handle Outliers** — Detected and removed extreme values to avoid distortion in pricing and performance insights.
+1. **Understand the Problem & Data:** defined research questions and assessed dataset scope and limitations.
+2. **Import & Inspect Data:** reviewed variable types, distributions, and overall data quality.
+3. **Handle Missing Data:** identified missing and zero values (e.g., electric range and base MSRP) and applied appropriate cleaning strategies.
+4. **Explore Data Patterns:** used descriptive statistics and grouped aggregations by geography, manufacturer, vehicle type, and model year.
+5. **Transform Data:** created derived variables and encoded categorical features to support analysis.
+6. **Visualize Relationships & Correlations:** examined key relationships using correlation analysis and visual exploration.
+7. **Handle Outliers:** detected and removed extreme values to avoid distortion in pricing and performance insights.
 
-## Key Insights
+---
+
+## 📈 Key Insights
 1. What is the distribution of **Battery Electric Vehicles (BEVs)** vs. **Plug-in Hybrid Electric Vehicles (PHEVs)**?
 - **BEVs dominate EV adoption (~80%)**, with consistent patterns across top counties and cities.
 2. Which **counties and cities** have the highest concentration of EVs?
@@ -59,8 +60,11 @@ This analysis follows a structured exploratory data analysis process:
 7. Which **electric utilities** serve the largest EV populations?
 - **Puget Sound Energy** serves the largest EV population, followed by City of Seattle and City of Tacoma utilities.
 
-## Tech Stack
-Python, Pandas, NumPy, Matplotlib, Seaborn
+---
+
+## 📊 Visual Highlights
+
+---
 
 ## What I Learned from the EDA Process
 - Visual inspection was essential for identifying data issues early, especially zero values representing missing data.
@@ -85,7 +89,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Author
 **Annie Phan**
+Data Analyst | MS AI @ San José State University
 
-MSAI Student, San José State University
-
-Background in Data Analytics, Marketing Analytics, and Applied AI
