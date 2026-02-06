@@ -34,13 +34,13 @@ Each row represents a unique registered electric vehicle.
 
 ## 🔍 Analysis Approach
 This analysis follows a structured exploratory data analysis process:
-1. **Understand the Problem & Data:** defined research questions and assessed dataset scope and limitations.
-2. **Import & Inspect Data:** reviewed variable types, distributions, and overall data quality.
-3. **Handle Missing Data:** identified missing and zero values (e.g., electric range and base MSRP) and applied appropriate cleaning strategies.
-4. **Explore Data Patterns:** used descriptive statistics and grouped aggregations by geography, manufacturer, vehicle type, and model year.
-5. **Transform Data:** created derived variables and encoded categorical features to support analysis.
-6. **Visualize Relationships & Correlations:** examined key relationships using correlation analysis and visual exploration.
-7. **Handle Outliers:** detected and removed extreme values to avoid distortion in pricing and performance insights.
+- Step 1: **Understand the Problem & Data:** defined research questions and assessed dataset scope and limitations.
+- Step 2: **Import & Inspect Data:** reviewed variable types, distributions, and overall data quality.
+- Step 3: **Handle Missing Data:** identified missing and zero values (e.g., electric range and base MSRP) and applied appropriate cleaning strategies.
+- Step 4: **Explore Data Patterns:** used descriptive statistics and grouped aggregations by geography, manufacturer, vehicle type, and model year.
+- Step 5: **Transform Data:** created derived variables and encoded categorical features to support analysis.
+- Step 6: **Visualize Relationships & Correlations:** examined key relationships using correlation analysis and visual exploration.
+- Step 7: **Handle Outliers:** detected and removed extreme values to avoid distortion in pricing and performance insights.
 
 ---
 
