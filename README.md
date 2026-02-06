@@ -23,6 +23,16 @@ Each row represents a unique registered electric vehicle.
 
 ---
 
+## 🛠️ Tools & Skills
+- **Python** (Pandas, NumPy)
+- **Exploratory Data Analysis (EDA)**
+- **Data cleaning & preprocessing**
+- **Data visualization** (Matplotlib, Seaborn)
+- **Google Colab & Jupyter Notebook**
+
+---
+
+
 ## Approach
 This analysis follows a structured exploratory data analysis process:
 1. **Understand the Problem & Data** — Defined research questions and assessed dataset scope and limitations.
