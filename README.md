@@ -81,6 +81,7 @@ This analysis follows a structured exploratory data analysis process:
 
 ## Author
 **Annie Phan**
+
 Data Analyst | MS AI @ San José State University
 
 📫 [LinkedIn](https://www.linkedin.com/in/mophan/) | Portfolio | [Email](mailto:anniephan@gmail.com)
