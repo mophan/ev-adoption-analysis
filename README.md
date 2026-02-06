@@ -45,19 +45,12 @@ This analysis follows a structured exploratory data analysis process:
 ---
 
 ## 📈 Key Insights
-1. What is the distribution of **Battery Electric Vehicles (BEVs)** vs. **Plug-in Hybrid Electric Vehicles (PHEVs)**?
 - **BEVs dominate EV adoption (~80%)**, with consistent patterns across top counties and cities.
-2. Which **counties and cities** have the highest concentration of EVs?
 - **King County and Seattle lead EV adoption**, reflecting the influence of urban density and charging infrastructure.
-3. Which **manufacturers and models** dominate the EV market?
 - **Tesla dominates the EV market**, led by the Model Y and Model 3, and specializes almost entirely in BEVs.
-4. How has EV adoption **evolved over time** by model year and vehicle type?
 - EV adoption accelerated after **2017** and surged post-2020; recent dips likely reflect incomplete data.
-5. How do **electric range and base MSRP** vary across manufacturers and models?
 - Higher range often corresponds to higher MSRP, but **price is not driven by range alone**.
-6. What is the relationship between **electric range and CAFV eligibility**?
 - **Electric range strongly differentiates EV types** and is closely tied to CAFV eligibility.
-7. Which **electric utilities** serve the largest EV populations?
 - **Puget Sound Energy** serves the largest EV population, followed by City of Seattle and City of Tacoma utilities.
 
 ---
