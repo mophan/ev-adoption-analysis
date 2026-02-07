@@ -71,10 +71,6 @@ This analysis follows a structured exploratory data analysis process:
 - Integrate demographic and housing data to better explain regional adoption differences.
 - Incorporate charging infrastructure availability to assess its impact on city-level adoption.
 - Extend analysis to legislative districts to explore links between clean-energy policies and EV adoption.
-
-## What I Learned from the EDA Process
-- Visual inspection was essential for identifying data issues early, especially zero values representing missing data.
-- Meaningful patterns only emerged after addressing missing values and outliers.
 - Separating Tesla from non-Tesla vehicles revealed clearer market dynamics that were obscured in aggregate views.
 
 ## Project Files
