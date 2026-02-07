@@ -51,7 +51,6 @@ This analysis follows a structured exploratory data analysis process:
 - **Higher electric range generally corresponds to higher MSRP**, though price is influenced by multiple factors beyond range alone.
 - **Utility providers such as Puget Sound Energy serve the largest share of EV owners**, highlighting opportunities for targeted infrastructure investment.
 
-
 ---
 
 ## 📊 Visual Highlights
@@ -59,6 +58,7 @@ This analysis follows a structured exploratory data analysis process:
 - Correlation matrix used to analyze relationships between key variables
 
 ![Correlation Matrix](figures/correlation-matrix.png)
+
 ---
 
 ## Limitations & Next Steps
@@ -73,10 +73,14 @@ This analysis follows a structured exploratory data analysis process:
 - Extend analysis to legislative districts to explore links between clean-energy policies and EV adoption.
 - Separating Tesla from non-Tesla vehicles revealed clearer market dynamics that were obscured in aggregate views.
 
+---
+
 ## Project Files
 - [EV_Adoption_Washington_EDA.ipynb](EV_Adoption_Washington_EDA.ipynb) — Main exploratory data analysis notebook
 - [EV_Adoption_Washington_EDA.pdf](EV_Adoption_Washington_EDA.pdf) — Project presentation / summary slides
 - [README.md](README.md) — Project overview
+
+---
 
 ## Author
 **Annie Phan**
