@@ -55,7 +55,7 @@ This analysis follows a structured exploratory data analysis process:
 ---
 
 ## 📊 Visual Highlights
-
+![Correlation Matrix, Relationships between variables](figures/correlation-matrix.png)
 ---
 
 ## Limitations & Next Steps
