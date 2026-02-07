@@ -58,6 +58,7 @@ This analysis follows a structured exploratory data analysis process:
 - Correlation matrix used to analyze relationships between key variables
 
 ![Correlation Matrix](figures/correlation-matrix.png)
+![Top EV Models](figures/top_ev_models.png)
 
 ---
 
