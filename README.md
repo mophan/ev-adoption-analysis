@@ -69,8 +69,15 @@ This analysis follows a structured exploratory data analysis process:
   <em>Figure 2. Top 15 EV Makes.</em>
 </p>
 
-![Top EV Models](figures/top_ev_models.png)
-![EV Makes by County](figures/ev_make_by_county.png)
+<p align="center">
+  <img src="figures/top_ev_models.png" width="650"><br>
+  <em>Figure 3. Top 15 EV Models.</em>
+</p>
+
+<p align="center">
+  <img src="figures/ev_make_by_county.png" width="650"><br>
+  <em>Figure 4. Top 5 EV Makes by County.</em>
+</p>
 
 
 ---
