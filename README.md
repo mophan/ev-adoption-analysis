@@ -79,6 +79,13 @@ This analysis follows a structured exploratory data analysis process:
   <em>Figure 4. Top 5 EV Makes by County.</em>
 </p>
 
+- Electric Range vs. Price
+
+<p align="center">
+  <img src="figures/electric_range_vs_price.png"><br>
+  <em>Figure 5. Electric Range vs. Base MSRP.</em>
+</p>
+
 
 ---
 
