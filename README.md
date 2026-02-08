@@ -59,47 +59,54 @@ This analysis follows a structured exploratory data analysis process:
 
 <p align="center">
   <img src="figures/correlation-matrix.png" width="650"><br>
-  <em>Figure 1. Correlation Matrix.</em>
+  <em>Figure 1. Correlation Matrix</em>
 </p>
 
 - Top EV Makes and Models
 
 <p align="center">
   <img src="figures/top_ev_makes.png" width="650"><br>
-  <em>Figure 2. Top 15 EV Makes.</em>
+  <em>Figure 2. Top 15 EV Makes</em>
 </p>
 
 <p align="center">
   <img src="figures/top_ev_models.png" width="650"><br>
-  <em>Figure 3. Top 15 EV Models.</em>
+  <em>Figure 3. Top 15 EV Models</em>
 </p>
 
 <p align="center">
   <img src="figures/ev_make_by_county.png" width="650"><br>
-  <em>Figure 4. Top 5 EV Makes by County.</em>
+  <em>Figure 4. Top 5 EV Makes by County</em>
 </p>
 
 - Electric Range vs. Price
 
 <p align="center">
   <img src="figures/electric_range_vs_price.png"><br>
-  <em>Figure 5. Electric Range vs. Base MSRP.</em>
+  <em>Figure 5. Electric Range vs. Base MSRP</em>
 </p>
 
+- Electric Range vs. CAFV Eligibility
+
+<p align="center">
+  <img src="figures/electric_range_by_cafv_eligibility.png"><br>
+  <em>Figure 5. Electric Range vs. CAFV Eligibility</em>
+</p>
 
 ---
 
-## Limitations & Next Steps
-### Limitations
-- The analysis does not include demographic, socioeconomic, or political data, limiting causal interpretation.
-- CAFV eligibility effects are examined descriptively and do not establish causation.
+## ⚠️ Limitations
+- The dataset reflects registered vehicles, not actual vehicle usage.
 - Recent model years contain incomplete registration and range data.
+- Income, charging station availability, and demographic data are not included.
 
-### Next Steps
-- Integrate demographic and housing data to better explain regional adoption differences.
-- Incorporate charging infrastructure availability to assess its impact on city-level adoption.
-- Extend analysis to legislative districts to explore links between clean-energy policies and EV adoption.
-- Separating Tesla from non-Tesla vehicles revealed clearer market dynamics that were obscured in aggregate views.
+---
+
+## 🚀 Future Work
+- Incorporate charging station location data
+- Combine EV adoption data with demographic and income statistics
+- Build predictive models for future EV adoption trends
+- Develop an interactive dashboard for policymakers and planners
 
 ---
 
