@@ -57,11 +57,18 @@ This analysis follows a structured exploratory data analysis process:
 
 - Correlation matrix used to analyze relationships between key variables
 
-![Correlation Matrix](figures/correlation-matrix.png)
+<p align="center">
+  <img src="figures/correlation-matrix.png" width="650"><br>
+  <em>Figure 1. Correlation Matrix.</em>
+</p>
 
 - Top EV Makes and Models
-  
-![Top EV Makes](figures/top_ev_makes.png)
+
+<p align="center">
+  <img src="figures/top_ev_makes.png" width="650"><br>
+  <em>Figure 2. Top 15 EV Makes.</em>
+</p>
+
 ![Top EV Models](figures/top_ev_models.png)
 ![EV Makes by County](figures/ev_make_by_county.png)
 
