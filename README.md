@@ -110,10 +110,11 @@ This analysis follows a structured exploratory data analysis process:
 
 ---
 
-## Project Files
-- [EV_Adoption_Washington_EDA.ipynb](EV_Adoption_Washington_EDA.ipynb) — Main exploratory data analysis notebook
-- [EV_Adoption_Washington_EDA.pdf](EV_Adoption_Washington_EDA.pdf) — Project presentation / summary slides
-- [README.md](README.md) — Project overview
+## ▶️ How to Run
+- Clone the repository
+`git clone https://github.com/mophan/proj-electric-vehicle-adoption-analysis.git`
+- Open the notebook in Google Colab or Jupyter Notebook: [EV_Adoption_Washington_EDA.ipynb](EV_Adoption_Washington_EDA.ipynb)
+- Run the cells sequentially to reproduce the analysis
 
 ---
 
