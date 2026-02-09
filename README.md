@@ -90,7 +90,7 @@ This analysis follows a structured exploratory data analysis process:
 
 <p align="center">
   <img src="figures/electric_range_by_cafv_eligibility.png"><br>
-  <em>Figure 5. Electric Range vs. CAFV Eligibility</em>
+  <em>Figure 6. Electric Range vs. CAFV Eligibility</em>
 </p>
 
 ---
