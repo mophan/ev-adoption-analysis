@@ -9,7 +9,7 @@ The goal of this project is to understand how electric vehicle adoption varies a
 ---
 
 ## 📂 Dataset
-- **Source:** Washington State Department of Licensing (DOL) EV Registration Data  
+- **Source:** [Washington State Department of Licensing (DOL) – Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 - **Scope:** 260,000+ registered electric vehicles  
 - **Key features:**  
   - Vehicle type (BEV vs. PHEV)  
